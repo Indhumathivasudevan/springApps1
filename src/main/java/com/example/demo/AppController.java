@@ -8,7 +8,7 @@ public class AppController {
 	
 	@GetMapping("home")
 	public String gethome() {
-		return "Welcome Home";
+		return "Welcome Home again";
 	}
 
 }
